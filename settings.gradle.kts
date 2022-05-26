@@ -1,0 +1,1 @@
+rootProject.name = "blog2.seriy0904.dev.blog-v2-0"
